@@ -1,3 +1,5 @@
 name: Paul Hoffman
 markdown: kramdown
+paginate: 25
+paginate_path: "/blog/page:num/"
 
