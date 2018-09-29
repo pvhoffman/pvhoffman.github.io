@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Paul V. Hoffman - First Post"
 date: 2018-09-28
 ---
